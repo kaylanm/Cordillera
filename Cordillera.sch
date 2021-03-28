@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:Cordillera-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -88,12 +87,12 @@ Wire Wire Line
 $Comp
 L keeb_parts:R_Small R3
 U 1 1 5F318F68
-P 2050 2200
-F 0 "R3" V 1854 2200 50  0000 C CNN
-F 1 "5.1k" V 1945 2200 50  0000 C CNN
-F 2 "keeb_parts:R_0603_1608Metric" H 2050 2200 50  0001 C CNN
-F 3 "~" H 2050 2200 50  0001 C CNN
-	1    2050 2200
+P 2050 1600
+F 0 "R3" V 1854 1600 50  0000 C CNN
+F 1 "5.1k" V 1945 1600 50  0000 C CNN
+F 2 "keeb_parts:R_0603_1608Metric" H 2050 1600 50  0001 C CNN
+F 3 "~" H 2050 1600 50  0001 C CNN
+	1    2050 1600
 	0    1    1    0   
 $EndComp
 Connection ~ 1850 1800
@@ -1305,12 +1304,12 @@ B8
 $Comp
 L keeb_parts:R_Small R2
 U 1 1 5F3187E0
-P 2050 1600
-F 0 "R2" V 1854 1600 50  0000 C CNN
-F 1 "5.1k" V 1945 1600 50  0000 C CNN
-F 2 "keeb_parts:R_0603_1608Metric" H 2050 1600 50  0001 C CNN
-F 3 "~" H 2050 1600 50  0001 C CNN
-	1    2050 1600
+P 2050 2200
+F 0 "R2" V 1854 2200 50  0000 C CNN
+F 1 "5.1k" V 1945 2200 50  0000 C CNN
+F 2 "keeb_parts:R_0603_1608Metric" H 2050 2200 50  0001 C CNN
+F 3 "~" H 2050 2200 50  0001 C CNN
+	1    2050 2200
 	0    -1   1    0   
 $EndComp
 Text Label 2750 4750 0    50   ~ 0
